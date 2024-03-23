@@ -1,6 +1,7 @@
 *{
     margin:0px;
     padding:0px;
+  
 }
 .parallaxone{
     height:600px;
@@ -14,7 +15,8 @@
     top: 300px;;
     width: 200px;
     padding: 10px;
-    background-color: black;
+    border-radius: 1rem;
+    background-color:Blue;
     color:white;
     text-align: center;
 }
@@ -27,12 +29,13 @@
 }
 .parallaxtwo h1{
     position: relative;
+    border-radius: 1rem;
     left:800px;
     top: 300px;;
     width: 200px;
     height: 31px;
     padding: 10px;
-    background-color: black;
+    background-color: blue;
     color:white;
     text-align: center;
 }
